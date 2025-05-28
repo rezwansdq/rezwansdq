@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>👋 Hey there, I’m Rezwan “Rezzy” Sadeqi</h1>
-  <p>Third-year CS/HBA student @ Western University//Ivey Business School | Schulich Leader | </p>
+  <p>Third-year CS/HBA student @ Western University/Ivey Business School | Schulich Leader | </p>
   
   <p>
     <a href="https://github.com/rezwansdq">
