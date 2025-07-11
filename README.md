@@ -48,7 +48,7 @@
 
 - 📫 **Email**: rsadeqi@uwo.ca  
 - 🔗 **LinkedIn**: [linkedin.com/in/rezwans](https://www.linkedin.com/in/rezwans)  
-- 🌐 **Personal Site**: https://rsadeqi.com  
+- 🌐 **Personal Site**: currently being updated
 
 ---
 
