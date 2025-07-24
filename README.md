@@ -39,7 +39,7 @@
 
 | Project | Description |
 | :-----: | :---------: |
-| **Songless** │ A “Heardle”-style JS game that challenges your music recall in 0.1s snippets │ [Play Now](https://sl.rsadeqi.com) │ [Code](https://github.com/rezwansdq/rapSongless) |
+| **Songless** │ A “Heardle”-style JS game that challenges your music recall in 0.1s snippets │ [Play Now](https://playsongless.win) │ [Code](https://github.com/rezwansdq/rapSongless) |
 
 
 ---
